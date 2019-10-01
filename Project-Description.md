@@ -10,7 +10,7 @@ Faculty advisor:
 >John Franco - franco@ucmail.uc.edu
 
 Proj. background description:
-> We are creating a honeypot that will take control over an attackers system via the files that are being exfiltrated by the attacker.
+> We are creating a honeypot that will take control over an attackers system via the information that is being exfiltrated by the attacker.
 
 Proj. problem statement:
 >
