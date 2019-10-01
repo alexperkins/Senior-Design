@@ -13,9 +13,9 @@ Proj. background description:
 
 Proj. problem statement:
 
-inadequacy of current solutions to problems: 
->No current honeypots are used offensively. mainly used for detection of malware/intruders or for research into the techniques used by intruders.
+Inadequacy of current solutions to problems: 
+>No current honeypots are used offensively. Mainly used for detection of malware/intruders or for research into the techniques used by intruders.
 
-background skills/intrets relevant to problem:
+Background skills/interests relevant to problem:
 
 Team approach (overall goals/expectations):
