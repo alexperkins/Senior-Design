@@ -1,7 +1,7 @@
 <h3>Tasks</h3>
 []research honeypots(John): find out about what exactly a honeypot is, how its used, and how we can create one.
 
- 	[]high, medium, or low level honeypot(John): determine which level of honeypot (in terms of interactivity) we will be developing.
+ 	[]high, medium, or low level honeypot(Nick): determine which level of honeypot (in terms of interactivity) we will be developing.
 	
  	[]Type of honeypot(Alex): determine what type of honeypot will be intuitive for us (malware, SSH, gaspot, SCADA).
 	
