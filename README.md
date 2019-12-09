@@ -13,7 +13,7 @@
 6) PPT Slideshow
 7) Self-Assessment Essays
 8) Professional Biographies
-9)Budget
+9) Budget
   -expenses to date or statement that there have not been any.
   -show monetary value of donated items and donation sources.
 10) Appendix
