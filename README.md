@@ -5,8 +5,8 @@
 <h5>2) Project Description</h5>
   https://github.com/alexperkins/Senior-Design/blob/master/Project-Description.md
 <h5>3) User Stories and Design Diagrams</h5>
-  -User Stories
-  -Design Diagrams: Level 0, Level 1 and Level 2 
+  User Stories: https://github.com/alexperkins/Senior-Design/blob/master/Design_Diagrams/Design%20Diagrams.pptx
+  Design Diagrams: https://github.com/alexperkins/Senior-Design/blob/master/Design_Diagrams/Design%20Diagrams.pptx
   -Description of the Diagrams: including conventions and a brief description of the purpose of each component.
 <h5>4) Project Tasks and Timeline</h5>
   -Task List
