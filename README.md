@@ -1,12 +1,9 @@
 # Senior-Design
 <h2>Table of Contents</h2>
-<h5>1) Project Abstract with Team names and Advisor name</h5>
-  https://github.com/alexperkins/Senior-Design/blob/master/Project-Abstract.md
-<h5>2) Project Description</h5>
-  https://github.com/alexperkins/Senior-Design/blob/master/Project-Description.md
-<h5>3) User Stories and Design Diagrams</h5>
-  User Stories: https://github.com/alexperkins/Senior-Design/blob/master/Design_Diagrams/User_Stories.md
-  Design Diagrams: https://github.com/alexperkins/Senior-Design/blob/master/Design_Diagrams/Design%20Diagrams.pptx
+<h5><a href="https://github.com/alexperkins/Senior-Design/blob/master/Project-Abstract.md">1) Project Abstract with Team names and Advisor name</a></h5>
+<h5><a href="https://github.com/alexperkins/Senior-Design/blob/master/Project-Description.md">2) Project Description<a></h5>
+<h5><a href="https://github.com/alexperkins/Senior-Design/blob/master/Design_Diagrams/User_Stories.md">3) User Stories</a> and 
+  <a href="https://github.com/alexperkins/Senior-Design/blob/master/Design_Diagrams/Design%20Diagrams.pptx">Design Diagrams</a></h5> 
 <h5>4) Project Tasks and Timeline</h5>
   -Task List
   -Timeline
