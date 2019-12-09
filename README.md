@@ -3,6 +3,7 @@
 <h5>1) Project Abstract with Team names and Advisor name</h5>
   https://github.com/alexperkins/Senior-Design/blob/master/Project-Abstract.md
 <h5>2) Project Description</h5>
+  https://github.com/alexperkins/Senior-Design/blob/master/Project-Description.md
 <h5>3) User Stories and Design Diagrams</h5>
   -User Stories
   -Design Diagrams: Level 0, Level 1 and Level 2 
