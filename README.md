@@ -3,7 +3,7 @@
 <h5><a href="https://github.com/alexperkins/Senior-Design/blob/master/Project-Abstract.md">1) Project Abstract with Team names and Advisor name</a></h5>
 <h5><a href="https://github.com/alexperkins/Senior-Design/blob/master/Project-Description.md">2) Project Description<a></h5>
 <h5><a href="https://github.com/alexperkins/Senior-Design/blob/master/Design_Diagrams/User_Stories.md">3) User Stories</a> and 
-  <a href="https://github.com/alexperkins/Senior-Design/blob/master/Design_Diagrams/Design%20Diagrams.pptx">Design Diagrams</a></h5> 
+  <a href="https://user-images.githubusercontent.com/26051226/70483741-7c010380-1ab7-11ea-93b8-aa57ca1dd349.png">Design Diagrams</a></h5> 
 <h5>4) Project Tasks and Timeline</h5>
   -Task List
   -Timeline
