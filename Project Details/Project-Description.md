@@ -2,7 +2,7 @@
 
 #### Team members + email: 
 ###### John Velten - veltenjr@mail.uc.edu  
-###### Nicholas Marquardt - marquans@mail.uc.edu   
+###### Nick Marquardt - marquans@mail.uc.edu   
 
 #### Faculty advisor: 
 ###### John Franco - franco@ucmail.uc.edu
