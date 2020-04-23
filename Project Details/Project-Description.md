@@ -8,7 +8,11 @@
 ###### John Franco - franco@ucmail.uc.edu
 
 #### Proj. background description:
-We are creating a honeypot that will take control over an attackers system via the information that is being exfiltrated by the attacker.
+This project is a study in the realm of cybersecurity. Honeypots are tools that are used
+to learn about, track, and prevent threats to a system. Attackers are baited with a phony
+system and from here they can be blocked, or just tracked. Our goal is to implement a
+honeypot that can also return malicious code that will allow us to gain access to and
+control the attacker’s system.
 
 #### Inadequacy of current solutions to problems: 
 No current honeypots are used offensively. Mainly used for detection of malware/intruders or for research into the techniques used by intruders.
